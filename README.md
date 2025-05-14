@@ -14,7 +14,7 @@
 
 ---
 <div align="right">
-  <img src="https://i.pinimg.com/originals/c5/54/8f/c5548fbdb93806ad3b312dfcc8c7a98c.gif" width="250" alt="Cute girl coding and drinking coffee" />
+  <img src="[https://i.pinimg.com/originals/c5/54/8f/c5548fbdb93806ad3b312dfcc8c7a98c.gif](https://media0.giphy.com/media/FoVzfcqCDSb7zCynOp/giphy.gif?cid=6c09b952zc4zd0ts3j6yaen114x4r0endmgzjmlwco63y6a0&ep=v1_gifs_search&rid=giphy.gif&ct=g)" width="250" />
 </div>
 
 ---
