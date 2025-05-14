@@ -25,7 +25,7 @@
   </div>
 </div>
 
-<div align="right">
+<div align="centre">
   <img src="giphy.gif" width="250" alt="Cute girl coding and drinking coffee" />
 </div>
 
