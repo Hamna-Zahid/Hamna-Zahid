@@ -12,18 +12,24 @@
 - 💬 Ask me about **Python**, **Apache tools**, or **Cloud workflows**
 - ✨ Passionate about **tech**, **design**, and a touch of **aesthetic code vibes**
 
----
-<div align="right">
-  <img src="giphy.gif" width="250" />
-</div>
+<table>
+  <tr>
+    <td align="left" style="border: none; vertical-align: top;">
+      <h3>🌐 Connect With Me</h3>
+      <p>
+        <a href="https://www.linkedin.com/in/hamna-zahid-21313027a/">
+          <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+        </a>
+        &nbsp;&nbsp;&nbsp;
+        <img src="https://komarev.com/ghpvc/?username=hamnazahid&style=flat&color=ff69b4" alt="Visitor Badge" />
+      </p>
+    </td>
+    <td align="right" style="border: none;">
+      <img src="giphy.gif" width="250" alt="Coding girl gif" />
+    </td>
+  </tr>
+</table>
 
-
-### 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamna-zahid-21313027a/)
-&nbsp;&nbsp;&nbsp;
-![Visitor Badge](https://komarev.com/ghpvc/?username=hamnazahid&style=flat&color=ff69b4)
-
----
 
 ### 💻 Tech Stack
 
