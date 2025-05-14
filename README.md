@@ -12,23 +12,22 @@
 - 💬 Ask me about **Python**, **Apache tools**, or **Cloud workflows**
 - ✨ Passionate about **tech**, **design**, and a touch of **aesthetic code vibes**
 
-<table>
-  <tr>
-    <td align="left" style="border: none; vertical-align: top;">
-      <h3>🌐 Connect With Me</h3>
-      <p>
-        <a href="https://www.linkedin.com/in/hamna-zahid-21313027a/">
-          <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
-        </a>
-        &nbsp;&nbsp;&nbsp;
-        <img src="https://komarev.com/ghpvc/?username=hamnazahid&style=flat&color=ff69b4" alt="Visitor Badge" />
-      </p>
-    </td>
-    <td align="right" style="border: none;">
-      <img src="giphy.gif" width="250" alt="Coding girl gif" />
-    </td>
-  </tr>
-</table>
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <div style="flex: 1;">
+    <h3>🌐 Connect With Me</h3>
+    <p>
+      <a href="https://www.linkedin.com/in/hamna-zahid-21313027a/">
+        <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      </a>
+      &nbsp;&nbsp;&nbsp;
+      <img src="https://komarev.com/ghpvc/?username=hamnazahid&style=flat&color=ff69b4" alt="Visitor Badge" />
+    </p>
+  </div>
+  <div style="flex-shrink: 0;">
+    <img src="giphy.gif" width="250" alt="Coding girl gif" />
+  </div>
+</div>
+
 
 
 ### 💻 Tech Stack
