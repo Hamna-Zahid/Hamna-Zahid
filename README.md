@@ -79,20 +79,13 @@
 
 ---
 
-### ✨ GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hamnazahid&show_icons=true&theme=tokyonight" width="400"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamnazahid&theme=tokyonight" width="400"/>
-</p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Hamna-Zahid&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Hamna-Zahid&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hamna-Zahid&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Hamna-Zahid&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ---
 
-### 💖 Fun Fact
-> I sprinkle a bit of pink and pastel wherever I go — even my CLI has themes 🌸  
-> Tech can be pretty and powerful at the same time!
-
----
-
-<div align="center">
-  <img src="https://i.pinimg.com/originals/15/0e/02/150e02d99293a6f0a3d7c2a2323bfb79.gif" width="300" alt="Cute girl coding" />
-</div>
