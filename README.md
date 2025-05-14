@@ -1,12 +1,7 @@
-<div style="display: flex; align-items: center;">
-  <img src="giphy.gif" width="220" style="margin-right: 20px;" />
-
-  <div>
-    <h1>✨ Hey there, I'm Hamna Zahid ✨</h1>
-    <h3>💻 Data Enthusiast | Data Engineering & Analytics | Tech Explorer 💖</h3>
-  </div>
+<div align="center">
+  <h1 align="center">✨ Hey there, I'm Hamna Zahid ✨</h1>
+  <h3 align="center">💻 Data Enthusiast | Data Engineering & Analytics | Tech Explorer 💖</h3>
 </div>
-
 
 
 ---
@@ -18,6 +13,10 @@
 - ✨ Passionate about **tech**, **design**, and a touch of **aesthetic code vibes**
 
 ---
+<div align="right">
+  <img src="giphy.gif" width="250" />
+</div>
+
 
 ### 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamna-zahid-21313027a/)
