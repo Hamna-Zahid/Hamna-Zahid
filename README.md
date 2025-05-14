@@ -17,6 +17,7 @@
   <img src="https://i.pinimg.com/originals/c5/54/8f/c5548fbdb93806ad3b312dfcc8c7a98c.gif" width="250" alt="Cute girl coding and drinking coffee" />
 </div>
 
+---
 
 ### 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamna-zahid-21313027a/)
