@@ -23,11 +23,11 @@
       <img src="https://komarev.com/ghpvc/?username=hamnazahid&style=flat&color=ff69b4" alt="Visitor Badge" />
     </p>
   </div>
-  <div style="flex-shrink: 0; display: flex; justify-content: center; align-items: center; width: 250px;">
-    <img src="giphy.gif" width="250" alt="Coding girl gif" />
-  </div>
 </div>
 
+<div align="right">
+  <img src="giphy.gif" width="250" alt="Cute girl coding and drinking coffee" />
+</div>
 
 
 ### 💻 Tech Stack
