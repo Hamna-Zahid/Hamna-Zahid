@@ -1,14 +1,12 @@
-<table>
-  <tr>
-    <td>
-      <h1>✨ Hey there, I'm Hamna Zahid ✨</h1>
-      <h3>💻 Data Enthusiast | Data Engineering & Analytics | Tech Explorer 💖</h3>
-    </td>
-    <td width="250">
-      <img src="giphy.gif" width="230" />
-    </td>
-  </tr>
-</table>
+<div style="display: flex; align-items: center;">
+  <img src="giphy.gif" width="220" style="margin-right: 20px;" />
+
+  <div>
+    <h1>✨ Hey there, I'm Hamna Zahid ✨</h1>
+    <h3>💻 Data Enthusiast | Data Engineering & Analytics | Tech Explorer 💖</h3>
+  </div>
+</div>
+
 
 
 ---
