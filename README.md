@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://i.pinimg.com/originals/83/f4/30/83f430fcf994f6364caaaaac09c4e6d2.gif" width="250" alt="Girly Coder Animation" />
-  <h1 align="center">✨ Hey there, I'm Hamna Zahid ✨</h1>
-  <h3 align="center">💻 Data Enthusiast | Data Engineering & Analytics | Tech Explorer 💖</h3>
+  <img src="giphy.gif" width="250" alt="Data Doesn't lie, people do" />
+  <h1>✨ Hey there, I'm Hamna Zahid ✨</h1>
+  <h3>💻 Data Enthusiast | Data Engineering & Analytics | Tech Explorer 💖</h3>
 </div>
 
 ---
@@ -11,11 +11,6 @@
 - 🌱 Constantly learning about **big data pipelines**, **stream processing**, and **ML engineering**
 - 💬 Ask me about **Python**, **Apache tools**, or **Cloud workflows**
 - ✨ Passionate about **tech**, **design**, and a touch of **aesthetic code vibes**
-
----
-<div align="center">
-  <img src="giphy.gif" width="250" alt="Data Doesn't lie, people do" />
-</div>
 
 ---
 
