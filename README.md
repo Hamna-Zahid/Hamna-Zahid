@@ -13,8 +13,8 @@
 - ✨ Passionate about **tech**, **design**, and a touch of **aesthetic code vibes**
 
 ---
-<div align="right">
-  <img src="[https://i.pinimg.com/originals/c5/54/8f/c5548fbdb93806ad3b312dfcc8c7a98c.gif](https://media0.giphy.com/media/FoVzfcqCDSb7zCynOp/giphy.gif?cid=6c09b952zc4zd0ts3j6yaen114x4r0endmgzjmlwco63y6a0&ep=v1_gifs_search&rid=giphy.gif&ct=g)" width="250" />
+<div align="center">
+  <img src="giphy.gif" width="250" alt="Data Doesn't lie, people do" />
 </div>
 
 ---
