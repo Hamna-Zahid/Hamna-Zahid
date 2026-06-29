@@ -158,13 +158,14 @@ Mobile marketplace with AI-powered real-time recommendation engine. Kafka + Spar
 
 ## GitHub Stats
 
-<p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=Hamna-Zahid&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
-</p>
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamna-Zahid&theme=tokyonight&hide_border=true&layout=compact&langs_count=10&count_private=true" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Hamna-Zahid&theme=tokyo-night&hide_border=true&area=true" />
-</p>
+![](https://github-readme-stats.vercel.app/api?username=Hamna-Zahid&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Hamna-Zahid&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hamna-Zahid&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Hamna-Zahid&icon=0&color=0)](https://visitcount.itsvg.in)
+
+---
 
 ---
 
