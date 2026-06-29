@@ -15,25 +15,15 @@
 
 ## About
 
-I'm an **AI Software Engineer** who builds complete products where AI is the core, not a feature added on top. That means owning the full stack — product architecture, backend systems, LLM integration, data infrastructure, and deployment — from day one to production.
+I'm an AI Software Engineer with 3+ years of experience building complete products where AI is the core — not a layer bolted on at the end.
 
-3+ years of shipping real systems: production AI pipelines for US clients, a published ASR research paper, mobile apps, data streaming platforms, and AI-powered automation at scale.
+What that means in practice: I own the full stack. Product architecture, backend systems, LLM integration, real-time data pipelines, and deployment to production. I've shipped voice AI systems, multi-agent orchestration pipelines, RAG search engines, mobile apps, and streaming data platforms — for US clients, as solo engineer, and as researcher.
 
-```python
-engineer = {
-    "role"        : "AI Software Engineer",
-    "approach"    : "Full ownership — product, AI layer, backend, data infrastructure",
-    "languages"   : ["Python", "TypeScript", "JavaScript", "SQL", "Scala", "R", "C++", "Dart"],
-    "ai_stack"    : ["LLMs", "RAG", "Agents", "Speech AI", "NLP", "Computer Vision"],
-    "backend"     : ["FastAPI", "Django", "Flask", "Node.js", "WebSockets", "REST", "GraphQL"],
-    "frontend"    : ["React Native", "React", "Next.js", "TypeScript"],
-    "data"        : ["Spark", "Kafka", "Airflow", "dbt", "Supabase", "BigQuery", "Snowflake"],
-    "cloud"       : ["AWS", "GCP", "Azure"],
-    "research"    : "ASR + LM rescoring for L2 accented speech — Elsevier CSL (submitted)",
-    "writing"     : "Technical blog on AI systems, LLM architecture, data engineering",
-    "open_to"     : "Remote AI engineering roles at early-stage US startups"
-}
-```
+My background spans applied AI engineering and data infrastructure (AWS, GCP, Azure, Spark, Kafka, Airflow), which means the systems I build don't just work in demos — they hold up under real-world data and production load.
+
+I also write about AI systems and LLM architecture on [Medium](https://medium.com/@Hamna_Zahid), publish on [YouTube](https://www.youtube.com/@bydatalyxt), and have research submitted to *Elsevier Computer Speech & Language* on accented speech recognition.
+
+**Currently open to remote AI engineering roles** — startups, scale-ups, or any team where I can own meaningful AI infrastructure end to end.
 
 ---
 
@@ -45,7 +35,7 @@ engineer = {
 
 ### 🧠 [RAG Agent for Complex Tasks](https://github.com/Hamna-Zahid/RAG-Agent-for-Complex-Tasks)
 
-Production-grade RAG system that goes beyond simple semantic similarity — built to handle complex, multi-hop questions that standard retrieval pipelines fail on. Includes hybrid search, reranking, and LLM grounding.
+Production-grade RAG system built to handle complex, multi-hop questions that simple semantic search fails on. Hybrid retrieval, reranking, and LLM grounding — not a tutorial wrapper.
 
 `Python` `LangChain` `pgvector` `OpenAI` `FastAPI` `Chroma`
 
@@ -54,7 +44,7 @@ Production-grade RAG system that goes beyond simple semantic similarity — buil
 
 ### 🎤 [ASR Research — L2 Accented Speech](https://www.researchgate.net/publication/408161852)
 
-Full research pipeline: cascaded ASR + LM rescoring benchmarked across all **24 L2-ARCTIC speakers** (6 L1 backgrounds). Streaming error decomposition, phoneme-level error taxonomy, and evaluation of text-only rescoring bounds. Submitted to *Elsevier Computer Speech & Language*.
+Full research pipeline: cascaded ASR + LM rescoring benchmarked across all **24 L2-ARCTIC speakers** (6 L1 backgrounds). Streaming error decomposition, phoneme-level taxonomy, evaluation of text-only rescoring bounds. Submitted to *Elsevier Computer Speech & Language*.
 
 `Python` `Whisper` `Groq` `Speech Processing` `NLP`
 
@@ -74,7 +64,7 @@ Real-time voice coaching platform. Streams audio over WebSocket to a FastAPI bac
 
 ### 📡 [Realtime Data Streaming Pipeline](https://github.com/Hamna-Zahid/realtime-data-streaming)
 
-Fully containerized end-to-end data engineering pipeline. Production-grade architecture with fault tolerance, schema management, and low-latency ingestion.
+Fully containerized end-to-end data engineering pipeline with fault tolerance, schema management, and low-latency ingestion — production-grade architecture, not a demo.
 
 `Apache Kafka` `Apache Spark` `Airflow` `Cassandra` `Docker` `Python`
 
@@ -85,7 +75,7 @@ Fully containerized end-to-end data engineering pipeline. Production-grade archi
 
 ### 🍔 [Emoz — Food Delivery App](https://github.com/Hamna-Zahid/Emoz-app)
 
-Cross-platform mobile food delivery app with real-time order tracking and analytics. Backend on AWS Lambda + API Gateway. Real-time order and user event processing via Kinesis + S3 ETL pipelines.
+Cross-platform mobile food delivery app with real-time order tracking. Backend on AWS Lambda + API Gateway. Real-time event processing via Kinesis + S3 ETL pipelines.
 
 `React Native` `AWS Lambda` `API Gateway` `Kinesis` `S3` `Python`
 
@@ -94,7 +84,7 @@ Cross-platform mobile food delivery app with real-time order tracking and analyt
 
 ### 👗 [Wardo — AI Stylist Marketplace](https://github.com/Hamna-Zahid/Qareebe-react)
 
-Mobile marketplace with AI-powered real-time recommendation engine. Kafka + Spark Streaming pipelines on GCP Dataflow. Aggregated user insights stored in BigQuery for personalization.
+Mobile marketplace with AI-powered real-time recommendation engine. Kafka + Spark Streaming on GCP Dataflow. Aggregated user insights in BigQuery for personalization.
 
 `React Native` `Flask` `Kafka` `Spark Streaming` `GCP Dataflow` `BigQuery`
 
@@ -102,7 +92,7 @@ Mobile marketplace with AI-powered real-time recommendation engine. Kafka + Spar
 </tr>
 </table>
 
-> 🔒 **Additional private repos:** Datricx production platform (full-stack AI automation system for US clients), Datricx backend API, Datricx scheduling agent, Echo backend (FastAPI + WebSockets), Echo mobile app, Echo architecture dashboard
+> 🔒 **Private repos include:** Datricx production platform (full-stack AI automation system for US clients), Datricx backend API + scheduling agent, Echo backend (FastAPI + WebSockets), Echo mobile app, Echo architecture dashboard
 
 ---
 
@@ -147,6 +137,7 @@ Mobile marketplace with AI-powered real-time recommendation engine. Kafka + Spar
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 ![Flink](https://img.shields.io/badge/Flink-E6526F?style=flat-square&logo=apacheflink&logoColor=white)
 ![Airbyte](https://img.shields.io/badge/Airbyte-615EFF?style=flat-square&logo=airbyte&logoColor=white)
+![Prefect](https://img.shields.io/badge/Prefect-024DFD?style=flat-square&logo=prefect&logoColor=white)
 
 #### Cloud
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
@@ -161,17 +152,18 @@ Mobile marketplace with AI-powered real-time recommendation engine. Kafka + Spar
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat-square&logo=googlebigquery&logoColor=white)
 ![ElasticSearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
 
 ---
 
 ## GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Hamna-Zahid&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&show=reviews,discussions_started" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamna-Zahid&theme=tokyonight&hide_border=true&layout=compact&langs_count=10&count_private=true" />
+  <img width="70%" src="https://streak-stats.demolab.com?user=Hamna-Zahid&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
 </p>
 <p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=Hamna-Zahid&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamna-Zahid&theme=tokyonight&hide_border=true&layout=compact&langs_count=10&count_private=true" />
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Hamna-Zahid&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
 ---
@@ -197,6 +189,6 @@ Mobile marketplace with AI-powered real-time recommendation engine. Kafka + Spar
 ---
 
 <p align="center">
-  <b>Open to remote AI engineering roles at early-stage US startups</b><br/>
+  <b>Open to remote AI engineering roles worldwide</b><br/>
   <i>I build the product and the AI inside it — end to end.</i>
 </p>
