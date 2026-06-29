@@ -156,10 +156,6 @@ Mobile marketplace with AI-powered real-time recommendation engine. Kafka + Spar
 
 ---
 
-## GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=Hamna-Zahid&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-
 ## Certifications
 
 | Issuer | Certifications |
