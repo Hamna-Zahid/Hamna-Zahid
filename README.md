@@ -23,7 +23,7 @@ My background spans applied AI engineering and data infrastructure (AWS, GCP, Az
 
 I also write about AI systems and LLM architecture on [Medium](https://medium.com/@Hamna_Zahid), publish on [YouTube](https://www.youtube.com/@bydatalyxt), and have research submitted to *Elsevier Computer Speech & Language* on accented speech recognition.
 
-**Currently open to remote AI engineering roles** — startups, scale-ups, or any team where I can own meaningful AI infrastructure end to end.
+**Currently open to remote AI engineering roles worldwide.**
 
 ---
 
